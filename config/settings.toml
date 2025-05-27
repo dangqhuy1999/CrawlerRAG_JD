@@ -1,0 +1,4 @@
+# File: config/settings.toml
+OPENAI_API_KEY = "sk-..."
+QDRANT_HOST = "localhost"
+QDRANT_PORT = 6333

@@ -1,0 +1,25 @@
+[
+  {
+    "title": "AI Engineer",
+    "company": "OpenAI",
+    "location": "Remote",
+    "skills": [
+      "Python",
+      "LLM",
+      "ML"
+    ],
+    "salary": "4000-6000 USD",
+    "description": "Build AI agents using LLMs and vector DBs."
+  },
+  {
+    "title": "Backend Developer",
+    "company": "TechCorp",
+    "location": "Hà Nội",
+    "skills": [
+      "Django",
+      "PostgreSQL"
+    ],
+    "salary": "1000-1500 USD",
+    "description": "Phát triển backend cho hệ thống nội bộ."
+  }
+]
